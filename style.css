@@ -11,3 +11,19 @@ body {
 header {
     color:aquamarine
 }
+
+container {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    width: 90%;
+ }
+
+ nav {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ img {
+    width: 100%;
+    height: auto;  
+  }
