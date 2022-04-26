@@ -27,3 +27,11 @@ container {
     width: 100%;
     height: auto;  
   }
+
+  a {
+    text-decoration: nome;
+  }
+
+  body {
+    font: 400 Irem 'DM Sans', 'sans-serif';
+  }
